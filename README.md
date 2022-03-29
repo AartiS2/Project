@@ -8,42 +8,45 @@ This repository consists of files required to deploy a **Web App** created with 
 
 ### Problem Statement/Oppurtunity:
 
-Dia-Mellitus is a chronic disease with the potential to cause a worldwide health care crisis. According to International Diabetes Federation 382 million people are living with this dieases across the whole world. By 2035, this will be doubled as 592 million. Dia-mellitus is a disease caused due to the increase level of blood glucose. This high blood glucose produces the symptoms of frequent urination, increased thirst, and increased hunger. Dia-mellitus is a one of the leading cause of blindness, kidney failure, amputations, heart failure and stroke. When we eat, our body turns food into sugars, or glucose. At that point, our pancreas is supposed to release insulin. Insulin serves as a key to open our cells, to allow the glucose to enter and allow us to use the glucose for energy. But with diabetes, this system does not work. Type 1 and type 2 diabetes are the most common forms of the disease, but there are also other kinds, such as gestational diabetes, which occurs during pregnancy, as well as other forms. Machine learning is an emerging scientific field in data science dealing with the ways in which machines learn from experience. The aim of this project is to develop a system which can perform early prediction of dia-mellitus for a patient with a higher accuracy by combining the results of different machine learning techniques. The algorithms like K nearest neighbour, Logistic Regression, Random forest, Support vector machine and Decision tree are used. The accuracy of the model using each of the algorithms is calculated. Then the one with a good accuracy is taken as the model for predicting the diabetes.
+Automated defect detection in medical imaging has become the emergent field in several
+medical diagnostic applications. Automated detection of tumor in MRI is very crucial as it
+provides information about abnormal tissues which is necessary for planning treatment. The
+conventional method for defect detection in magnetic resonance brain images is human
+inspection. This method is impractical due to large amount of data. Hence, trusted and automatic
+classification schemes are essential to prevent the death rate of human. So, automated tumor
+detection methods are developed as it would save radiologist time and obtain a tested accuracy.
+The MRI brain tumor detection is complicated task due to complexity and variance of tumors. In
+this project, we propose the machine learning algorithms to overcome the drawbacks of
+traditional classifiers where tumor is detected in brain MRI using machine learning algorithms.
+Machine learning and image classifier can be used to efficiently detect cancer cells in brain
+through MRI.
 
 ## PROJECT DISCRIPTION:
 
 ### INTRODUCTION:
 
-Dia-Mellitus(type of diebetes) is the fast growing disease among the people even among the youngsters.  In  understanding  this  and  how  it develops,  we need  to  understand  what  happens  in  the  body without  this dieases.  Sugar  (glucose)  comes  from  the foods  that  we  eat,  specifically  carbohydrate  foods. Carbohydrate  foods  provide  our  body with  its  main energy  source  everybody,  even  those  people  with diabetes,  needs  carbohydrate.  Carbohydrate  foods include bread, cereal, pasta, rice, fruit, dairy products and vegetables (especially  starchy  vegetables). When we eat these foods, the body breaks them down into glucose. The  glucose  moves  around the  body  in  the bloodstream.  Some  of  the  glucose  is  taken  to  our brain  to  help  us  think  clearly  and  function.  The remainder of the  glucose  is  taken to  the  cells of our body  for  energy  and  also  to  our  liver,  where  it  is stored  as  energy  that  is  used  later  by  the  body.  In order for the body to use glucose for energy, insulin is required. Insulin is a hormone that is produced by the  beta  cells in  the  pancreas.  Insulin  works  like a key to a  door.  Insulin attaches itself to doors on the cell, opening the door to allow glucose to move from the blood stream, through the door, and into the cell. If the pancreas is not able to produce enough insulin (insulin  deficiency)  or  if  the  body  cannot  use  the insulin it produces (insulin resistance), glucose builds up in  the bloodstream (hyperglycaemia) and diabetes develops.  **Diabetes  Mellitus**  means  high  levels  of sugar (glucose) in the blood stream and in the urine. This is a Microsoft Azure Web App project that helps the user to identify whether someone is suffering from diabetes Mellitus by simply inputting certain values like BMI, Glucose level, Blood pressure etc. with the help of Kaggle database.
+Tumor biopsy being challenging for brain tumor patients, non-invasive imaging
+techniques like Magnetic Resonance Imaging (MRI) have been extensively employed in
+diagnosing brain tumors. Therefore, development of systems for the detection and prediction of
+the grade of tumors based on MRI data has become necessary. But at first sight of the imaging
+modality like in Magnetic Resonance Imaging (MRI), the proper visualisation of the tumor cells
+and its differentiation with its nearby soft tissues is somewhat difficult task which may be due to
+the presence of low illumination in imaging modalities or its large presence of data or several
+complexity and variance of tumors-like unstructured shape, viable size and unpredictable
+locations of the tumor.
+Automated defect detection in medical imaging using machine learning has become the
+emergent field in several medical diagnostic applications. Its application in the detection of brain
+tumor in MRI is very crucial as it provides information about abnormal tissues which is
+necessary for planning treatment.Studies in the recent literature have also reported that automatic
+computerized detection and diagnosis of the disease, based on medical image analysis, could be
+a good alternative as it would save radiologist time and also obtain a tested accuracy.
+Furthermore, if computer algorithms can provide robust and quantitative measurements of tumor
+depiction, these automated measurements will greatly aid in the clinical management of brain
+tumors by freeing physicians from the burden of the manual depiction of tumors.
 
-### TYPES OF DIA-MELLITUS: 
 
-#### TYPE 1:
 
-Diabetes  means  that  the  immune  system  is compromised and the cells fail to produce insulin in sufficient  amounts.  There  are  no  eloquent  studies that prove the causes of type 1 diabetes and there are currently no known methods of prevention.
 
-#### TYPE 2:
-
-Diabetes means  that  the cells  produce  a  low quantity of  insulin  or  the body  can’t  use the insulin correctly. This is the most common type of diabetes, thus  affecting  90%  of  persons  diagnosed  with diabetes. It is caused by both genetic  factors and the manner of living. 
-
-#### TYPE 3:
-
-**Gestational diabetes** appears in pregnant women who suddenly develop high  blood  sugar.  In two thirds  of the  cases,  it  will  reappear  during  subsequent pregnancies.  There  is  a  great  chance  that type  1 or type 2 diabetes will occur after a pregnancy affected by gestational diabetes. 
-
-### SYMPTOMS OF DIA-MELLITUS:
-
-   • Frequent Urination
-   • Increased thirst 
-   • Tired/Sleepiness 
-   • Weight loss 
-   • Blurred vision 
-   •  Mood swings 
-   • Confusion and difficulty concentrating 
-   • frequent infections
- 
-### CAUSES OF DIA-MELLITUS:
-
-Genetic  factors  are the  main  cause  of diabetes.  It  is caused  by  at  least  two  mutant  genes  in  the chromosome  6,  the  chromosome  that  affects  the response  of  the  body  to  various  antigens. Viral infection may also influence the  occurrence  of type 1 and  type  2  diabetes. Studies have shown  that infection with viruses such as rubella, Coxsackievirus, mumps,  hepatitis  B  virus,  and  cytomegalovirus increase the risk of developing diabetes.
 
 ## Primary Ajure Technology:
 
@@ -51,7 +54,12 @@ Genetic  factors  are the  main  cause  of diabetes.  It  is caused  by  at  lea
 
 ## Conclusion:
 
-One of the important real-world medical problems is the  detection  of  Dia-Mellitus  at  its  early  stage.  In  this study,  systematic  efforts  are  made  in  designing  a system  which  results  in  the  prediction  of  Dia-Mellitus. During this work, five machine learning classification algorithms  are  studied  and  evaluated  on  various measures.  Experiments  are  performed  on Diabetes Mellitus  Database.  Experimental  results  determine the  adequacy  of  the  designed  system  with  an achieved  accuracy  of  99%  using  Decision  Tree algorithm.  
-
-
-Thank You!!!
+Without pre-trained Keras model, the train accuracy is 97.5% and validation accuracy is
+90.0%.The validation result had a best figure of 91.09% as accuracy.It is observed that without
+using pre-trained Keras model, although the training accuracy is >90%, the overall accuracy is
+low unlike where pre-trained model is used.
+Also, when we trained our dataset without Transfer learning, the computation time was
+40 min whereas when we used Transfer Learning, the computation time was 20min. Hence,
+training and computation time with pre-trained Keras model was 50% lesser than without.
+Chances over over-fitting the dataset is higher when training the model from scratch
+rather than using pre-trained Keras.Keras also provides an easy interface for data augmentation
