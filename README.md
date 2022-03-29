@@ -1,4 +1,4 @@
-# *Brain Tumour Detection Using Azure Web Apps* 
+# **Brain Tumor Detection Using Azure Web Apps** 
 
 ## PROJECT DEMO URL : 
 
