@@ -1,11 +1,10 @@
-# PREDICTION OF DIA-MELLITUS - USING **AZURE WEB APPS** 
+# *Brain Tumour Detection Using Azure Web Apps* 
 
-## PROJECT DEMO URL : https://diameliitus.azurewebsites.net
+## PROJECT DEMO URL : 
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.8.5](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
-This repository consists of files required to deploy a **Web App** created with **Web Apps on Microsoft Azure**.# Dia-Mellitus The project helps the user to identify whether someone is suffering from dia-mellitus by simply inputting certain values like BMI, Glucose level, Blood pressure etc. with the help of a Kaggle database.
-By using the statistical data about how certain aspects like BMI, Glucose level, Insulin level, age etc. impact if an individual is prone to diabetes or not, the project will be able to tell the user if the person has dia-mellitus or not by entering those values. So in a way the project will help in monitoring the likelihood of someone developing diabetes. The project can be extended to include other diseases prediction which I will incorporate later down the road.
+This repository consists of files required to deploy a **Web App** created with **Web Apps on Microsoft Azure**.# Brain is the regulatory unit in human body. It controls the functions such as memory, vision, hearing, knowledge, personality, problem solving, etc. The main reason for brain tumour is the abandoned progress of brain cells. Many health organizations have recognized brain tumour as the second foremost dispute that causes a large number of human deaths all around the world. Identification of brain tumour at a premature stage offers a opportunity of effective medical treatment. Use of Magnetic Resonance Imaging images have been recognized as more detailed and more consistent images when compared to Computed Tomography images. There are various techniques to detect brain tumour or neoplasms. The most competent and effective algorithms are discussed in this paper after studying a number of appropriate research papers. Pre-processing brain images, segmenting them, feature extraction, clustering and detection of the tumour are the methodologies in most researches.
 
 ### Problem Statement/Oppurtunity:
 
